@@ -8,3 +8,6 @@ console.log("done f2");
 console.log("F2");
 
 console.log("Done F2");
+
+
+console.log("Done All");
